@@ -1,4 +1,6 @@
-﻿***Abstract***
+***NB: BE CAREFUL, THIS WORK IS FOR ACADEMIC PURPOSES ONLY, I AM A STUDENT, NOT A SCIENTIST***
+ 
+ ***Abstract***
 
 *Mass shootings have become a distressing and recurrent phenomenon in the United States, raising urgent concerns about public safety and the identification of individuals at risk of perpetrating such violent acts. This paper presents an approach to address this challenge by proposing two predictive model based on Isolation Forest and Random Forest Classifier to assess the likelihood of an individual becoming a mass shooter based on the similarity between their behavioral attributes and those of known mass shooters. By leveraging the above cited machine learning techniques and specific datasets, we aim to uncover potential markers that might indicate an individual's predisposition to engage in mass violence. The findings underscore the validity of these techniques in their predictive capabilities. Nevertheless, due to the rarity of the mass shooting occurrences and the complex nature of the phenomenon, an objective evalutation is currently unfeasible.*
 
