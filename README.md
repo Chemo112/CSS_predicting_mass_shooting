@@ -1,4 +1,4 @@
-***NB: BE CAREFUL, THIS WORK IS FOR ACADEMIC PURPOSES ONLY, I AM A STUDENT, NOT A SCIENTIST***
+# Utilizing Machine Learning to Predict Mass Shootings: An Evaluation of Isolation Forest and Random Forest Classifier Models
  
  ***Abstract***
 
